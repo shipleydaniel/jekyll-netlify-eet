@@ -4,5 +4,7 @@ title: Welcome
 permalink: /
 section: home
 intro_paragraph: >
-hello? does this work? work work?
+   Features [Netlify CMS](https://www.netlifycms.org), responsive
+  CSS Grid layout, sample
+  pages and posts, and a continuous deployment workflow.
 ---
