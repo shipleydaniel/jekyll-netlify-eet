@@ -1,4 +1,4 @@
-di---
+---
 layout: home
 title: Welcome
 permalink: /
@@ -8,7 +8,12 @@ intro_paragraph: >
   provides the basics to get a fast, static website deployed on Netlify.
   Features [Netlify CMS](https://www.netlifycms.org), responsive
   CSS Grid layout, sample
+<<<<<<< HEAD
   pages and posts, and a continuous deployment workflow.
 ---
 
 
+=======
+  pages and posts, and a continuous deployment workflow with drugs.
+---
+>>>>>>> parent of dedc018... Update index.md
